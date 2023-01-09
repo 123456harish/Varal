@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+#start-company {
+    color: white;
+    background-color: blue;
+}
+p{
+    color: gray;
+}
+.top-anchor {
+    font-weight: bold;
+}
+
+.double-quites {
+    color: black;
+    font-size: 25px;
+}
+
+.Servises-placeholder {
+    color: red;
+}
+
+.top-heading {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.learn-heading {
+    font-size: 15px;
+    text-align: center;
+}
+
+.servic-heading {
+    font-size: 18px;
+
+}
+
+.top-card {
+    border-style: groove;
+    border-width: 5px;
+    padding: 25px;
+}
+
+.card-heading {
+    font-size: 25px;
+}
+
+.startbtn {
+    background-color: blue;
+    color: white;
+    border-width: 0px;
+}
+
+.renewbtn {
+    color: blue;
+}
+
+.span {
+    text-decoration: underline;
+}
+
+.get {
+    color: orange;
+}
+
+.heading {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.price-heading {
+    font-size: 25px;
+    color: blue;
+    font-weight: bold;
+    padding-bottom: 7px;
+}
+
+.price-card {
+    margin-top: 2px;
+    margin-bottom: 20px;
+}
+
+.price-md {
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+}
+
+.price-otp {
+    font-size: 11px;
+}
+
+.price-md-heading {
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    padding-bottom: 7px;
+}
+
+.price {
+    font-size: 25px;
+    color: blue;
+    font-weight: bold;
+}
+
+
+.price-md-peragraph {
+    color: white;
+
+}
+.price-button{
+    padding: 10px;
+    border-color: blue;
+}
+
+
+.price-md-button {
+    color: blue;
+    font-weight: bold;
+    width: 15vw;
+    padding: 10px;
+    border-color: blue;
+}
+
+.prise-list {
+    color: blue;
+}
+
+.prise-md-list {
+    color: white;
+}
+
+.price-middle-card {
+    background-color: blue;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+}
+
+.about-card-heading {
+    font-size: 20px;
+}
+
+.about-top-card-heading {
+    font-size: 15px;
+    color: #000008;
+    font-weight: bold;
+}
+
+.about-heading {
+    font-size: 20px;
+    font-weight: bold;
+    color: #000008;
+
+}
+
+.about-time {
+    color: blue;
+}
+
+.about-card-name {
+    font-size: 15px;
+
+}
+
+.about-name {
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 8px;
+}
+
+.about-label-container {
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+    border-left-style: solid;
+    border-left-width: 5px;
+    border-left-color: #170cf3;
+
+    border-radius: 4px;
+}
+
+.about-imges {
+    border-style: solid;
+    padding: 10px;
+
+}
+
+.bottum-Servis {
+    margin-left: 50px;
+}
+
+.bottumm-heading {
+    font-size: 20px;
+    font-weight: bold;
+    color: #000008;
+}
+
+.about_spcl {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+}
+
+.bottum-section {
+    color:
+        #444645;
+}
+
+#label {
+    width: 100%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #0e0ef3;
+    border-right: none;
+    border-top: none;
+    border-left: none;
+    border-radius: 4px;
+}
